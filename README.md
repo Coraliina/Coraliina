@@ -5,11 +5,15 @@ Recuerda cambiar "TU_USUARIO_DE_GITHUB" por tu usuario real en los enlaces de es
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=250&section=header&text=Hola,%20soy%20Coralina!%20✨&fontSize=70&animation=fadeIn&fontAlignY=35&desc=UI/UX%20Designer%20%26%20Developer&descAlignY=55&descAlign=50" />
+  <img src="https://png.pngtree.com/png-vector/20240204/ourmid/pngtree-frog-cartoon-character-png-image_11610278.png" width="220" alt="Rana Feliz" />
+  <br>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&pause=1000&color=FF3366;00F0FF;A200FF;FF0055&center=true&vCenter=true&width=800&height=100&lines=Hola,+soy+Coraliina!+%E2%9C%A8;Dise%C3%B1adora+UI%2FUX+%F0%9F%8E%A8;Desarrolladora+Frontend+%F0%9F%92%BB;Creando+Magia+Digital+%E2%9C%A8" alt="Typing SVG" />
+  </a>
 </div>
 
 <div align="center">
-  <h3>Diseñando experiencias digitales hermosas y funcionales 🎨</h3>
+  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Star-Struck" width="30" height="30" /> Diseñando experiencias digitales hermosas y muy coloridas <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" alt="Artist Palette" width="30" height="30" /></h3>
 </div>
 
 <br />
@@ -43,8 +47,8 @@ Recuerda cambiar "TU_USUARIO_DE_GITHUB" por tu usuario real en los enlaces de es
 ## 📊 Mis Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Coraliina&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Coraliina&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Coraliina&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Coraliina&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br />
