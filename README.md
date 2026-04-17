@@ -5,10 +5,8 @@ Recuerda cambiar "TU_USUARIO_DE_GITHUB" por tu usuario real en los enlaces de es
 -->
 
 <div align="center">
-  <img src="https://png.pngtree.com/png-vector/20240204/ourmid/pngtree-frog-cartoon-character-png-image_11610278.png" width="220" alt="Rana Feliz" />
-  <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=800&size=45&pause=1000&color=FFB3BA;99C1F1;8FF0A4;D3B8FF&center=true&vCenter=true&width=800&height=100&lines=Hola,+soy+Coraliina!+%E2%9C%A8;Econom%C3%ADa+%26+Software+%F0%9F%93%88%F0%9F%92%BB;Dise%C3%B1adora+UI%2FUX+%F0%9F%8E%A8;Finanzas+%2B+C%C3%B3digo+%F0%9F%92%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=800&size=45&pause=1000&color=FFB3BA;99C1F1;8FF0A4;D3B8FF&center=true&vCenter=true&width=800&height=100&lines=Hola,+soy+Coraliina!+%E2%9C%A8;Econom%C3%ADa+%26+Software+%F0%9F%93%88%F0%9F%92%BB;Dise%C3%B1adora+UI%2FUX+%F0%9F%8E%A8;Finanzas+%2B+C%C3%B3digo+%F0%9F%92%A1" alt="Typing SVG" />
   </a>
 </div>
 
