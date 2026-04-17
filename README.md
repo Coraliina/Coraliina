@@ -8,21 +8,21 @@ Recuerda cambiar "TU_USUARIO_DE_GITHUB" por tu usuario real en los enlaces de es
   <img src="https://png.pngtree.com/png-vector/20240204/ourmid/pngtree-frog-cartoon-character-png-image_11610278.png" width="220" alt="Rana Feliz" />
   <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&pause=1000&color=FF3366;00F0FF;A200FF;FF0055&center=true&vCenter=true&width=800&height=100&lines=Hola,+soy+Coraliina!+%E2%9C%A8;Dise%C3%B1adora+UI%2FUX+%F0%9F%8E%A8;Desarrolladora+Frontend+%F0%9F%92%BB;Creando+Magia+Digital+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=800&size=45&pause=1000&color=FFB3BA;99C1F1;8FF0A4;D3B8FF&center=true&vCenter=true&width=800&height=100&lines=Hola,+soy+Coraliina!+%E2%9C%A8;Econom%C3%ADa+%26+Software+%F0%9F%93%88%F0%9F%92%BB;Dise%C3%B1adora+UI%2FUX+%F0%9F%8E%A8;Finanzas+%2B+C%C3%B3digo+%F0%9F%92%A1" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Star-Struck" width="30" height="30" /> Diseñando experiencias digitales hermosas y muy coloridas <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" alt="Artist Palette" width="30" height="30" /></h3>
+  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Money%20Bag.png" alt="Money Bag" width="30" height="30" /> Uniendo el análisis económico con experiencias digitales hermosas <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" alt="Artist Palette" width="30" height="30" /></h3>
 </div>
 
 <br />
 
 ## 💫 Sobre Mí
 
-*   👩‍💻 Apasionada por el diseño **UI/UX** y el desarrollo frontend. Me encanta crear interfaces que enamoren a los usuarios.
-*   🎓 Actualmente mejorando mis habilidades en diseño web, tipografía, teoría del color y programación.
-*   🚀 Buscando siempre inspirar a través del diseño y escribir código limpio y estructurado.
+*   👩‍💻 Apasionada por encontrar el punto de encuentro entre la **Economía** y el **Desarrollo de Software**.
+*   🎨 Me encanta diseñar interfaces limpias, funcionales y crear experiencias de usuario (UI/UX) súper amigables.
+*   📈 Actualmente explorando cómo la tecnología puede optimizar las finanzas y crear valor real.
 *   📫 Contáctame: [tu-email@ejemplo.com](mailto:tu-email@ejemplo.com)
 
 <br />
@@ -47,8 +47,8 @@ Recuerda cambiar "TU_USUARIO_DE_GITHUB" por tu usuario real en los enlaces de es
 ## 📊 Mis Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Coraliina&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Coraliina&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Coraliina&show_icons=true&bg_color=FFF9FB&title_color=FF99CC&text_color=7A8B99&icon_color=99C2FF&border_color=FFE0F0&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Coraliina&background=FFF9FB&ring=FF99CC&fire=FF99CC&currStreakNum=7A8B99&sideNums=7A8B99&currStreakLabel=99C2FF&sideLabels=99C2FF&dates=7A8B99&stroke=FFE0F0&hide_border=false" alt="GitHub Streak" />
 </div>
 
 <br />
@@ -69,5 +69,5 @@ Recuerda cambiar "TU_USUARIO_DE_GITHUB" por tu usuario real en los enlaces de es
 
 <!-- Pie de página animado -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFB3BA,BAE1FF,BAFFC9,D3B8FF&height=100&section=footer" />
 </div>
