@@ -5,16 +5,15 @@ Recuerda cambiar "TU_USUARIO_DE_GITHUB" por tu usuario real en los enlaces de es
 -->
 
 <div align="center">
-  <!-- Aquí agregué un GIF estético de programación. Puedes cambiar este link por el de tu propio GIF -->
-  <img src="https://media.tenor.com/71j1iRkio6gAAAAi/coding-anime.gif" width="200" alt="Animación Estética" />
+  <img src="rana.png" width="220" alt="Rana Feliz" />
   <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=45&pause=1000&color=FFB3BA;FFD1DC;FFC0CB;F4C2C2&center=true&vCenter=true&width=800&height=100&lines=Econom%C3%ADa+%26+Software+%F0%9F%92%BB;Dise%C3%B1adora+UI%2FUX+%E2%9C%A8;Finanzas+%2B+C%C3%B3digo+%F0%9F%92%B0" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=800&size=45&pause=1000&color=FFB3BA;99C1F1;8FF0A4;D3B8FF&center=true&vCenter=true&width=800&height=100&lines=Hola,+soy+Coraliina!+%E2%9C%A8;Econom%C3%ADa+%26+Software+%F0%9F%93%88%F0%9F%92%BB;Dise%C3%B1adora+UI%2FUX+%F0%9F%8E%A8;Finanzas+%2B+C%C3%B3digo+%F0%9F%92%A1" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <h3>✨ Uniendo el análisis económico con experiencias digitales hermosas 🚀</h3>
+  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Money%20Bag.png" alt="Money Bag" width="30" height="30" /> Uniendo el análisis económico con experiencias digitales hermosas <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" alt="Artist Palette" width="30" height="30" /></h3>
 </div>
 
 <br />
@@ -24,7 +23,7 @@ Recuerda cambiar "TU_USUARIO_DE_GITHUB" por tu usuario real en los enlaces de es
 *   👩‍💻 Apasionada por encontrar el punto de encuentro entre la **Economía** y el **Desarrollo de Software**.
 *   🎨 Me encanta diseñar interfaces limpias, funcionales y crear experiencias de usuario (UI/UX) súper amigables.
 *   📈 Actualmente explorando cómo la tecnología puede optimizar las finanzas y crear valor real.
-*   📫 Contáctame: [carol.itagvv@gmail.com](mailto:carol.itagvv@gmail.com)
+*   📫 Contáctame: [tu-email@ejemplo.com](mailto:tu-email@ejemplo.com)
 
 <br />
 
@@ -48,8 +47,8 @@ Recuerda cambiar "TU_USUARIO_DE_GITHUB" por tu usuario real en los enlaces de es
 ## 📊 Mis Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Coraliina&show_icons=true&bg_color=FFF0F5&title_color=FF69B4&text_color=DB7093&icon_color=FFB6C1&border_color=FFC0CB&hide_border=false" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Coraliina&background=FFF0F5&ring=FF69B4&fire=FFB6C1&currStreakNum=DB7093&sideNums=DB7093&currStreakLabel=FF69B4&sideLabels=FF69B4&dates=DB7093&stroke=FFC0CB&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Coraliina&show_icons=true&bg_color=FFF9FB&title_color=FF99CC&text_color=7A8B99&icon_color=99C2FF&border_color=FFE0F0&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Coraliina&background=FFF9FB&ring=FF99CC&fire=FF99CC&currStreakNum=7A8B99&sideNums=7A8B99&currStreakLabel=99C2FF&sideLabels=99C2FF&dates=7A8B99&stroke=FFE0F0&hide_border=false" alt="GitHub Streak" />
 </div>
 
 <br />
@@ -70,5 +69,5 @@ Recuerda cambiar "TU_USUARIO_DE_GITHUB" por tu usuario real en los enlaces de es
 
 <!-- Pie de página animado -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFB6C1,FFC0CB,FF69B4,FFB3BA&height=100&section=footer" />
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFB3BA,BAE1FF,BAFFC9,D3B8FF&height=100&section=footer" />
+qui</div>
