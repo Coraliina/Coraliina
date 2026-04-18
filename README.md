@@ -9,7 +9,7 @@ Recuerda cambiar "TU_USUARIO_DE_GITHUB" por tu usuario real en los enlaces de es
   <img src="https://media.tenor.com/71j1iRkio6gAAAAi/coding-anime.gif" width="200" alt="Animación Estética" />
   <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=45&pause=1000&color=FFB3BA;99C1F1;8FF0A4;D3B8FF&center=true&vCenter=true&width=800&height=100&lines=Hola,+soy+Coraliina!+%E2%9C%A8;Econom%C3%ADa+%26+Software+%F0%9F%92%BB;Dise%C3%B1adora+UI%2FUX+%E2%9C%A8;Finanzas+%2B+C%C3%B3digo+%E2%9A%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=45&pause=1000&color=FFB3BA;FFD1DC;FFC0CB;F4C2C2&center=true&vCenter=true&width=800&height=100&lines=Econom%C3%ADa+%26+Software+%F0%9F%92%BB;Dise%C3%B1adora+UI%2FUX+%E2%9C%A8;Finanzas+%2B+C%C3%B3digo+%F0%9F%92%B0" alt="Typing SVG" />
   </a>
 </div>
 
@@ -70,5 +70,5 @@ Recuerda cambiar "TU_USUARIO_DE_GITHUB" por tu usuario real en los enlaces de es
 
 <!-- Pie de página animado -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFB3BA,BAE1FF,BAFFC9,D3B8FF&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFB6C1,FFC0CB,FF69B4,FFB3BA&height=100&section=footer" />
 </div>
