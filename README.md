@@ -48,8 +48,8 @@ Recuerda cambiar "TU_USUARIO_DE_GITHUB" por tu usuario real en los enlaces de es
 ## 📊 Mis Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Coraliina&show_icons=true&bg_color=FFF9FB&title_color=FF99CC&text_color=7A8B99&icon_color=99C2FF&border_color=FFE0F0&hide_border=false" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Coraliina&background=FFF9FB&ring=FF99CC&fire=FF99CC&currStreakNum=7A8B99&sideNums=7A8B99&currStreakLabel=99C2FF&sideLabels=99C2FF&dates=7A8B99&stroke=FFE0F0&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Coraliina&show_icons=true&bg_color=FFF0F5&title_color=FF69B4&text_color=DB7093&icon_color=FFB6C1&border_color=FFC0CB&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Coraliina&background=FFF0F5&ring=FF69B4&fire=FFB6C1&currStreakNum=DB7093&sideNums=DB7093&currStreakLabel=FF69B4&sideLabels=FF69B4&dates=DB7093&stroke=FFC0CB&hide_border=false" alt="GitHub Streak" />
 </div>
 
 <br />
