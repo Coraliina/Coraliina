@@ -24,7 +24,7 @@ Recuerda cambiar "TU_USUARIO_DE_GITHUB" por tu usuario real en los enlaces de es
 *   👩‍💻 Apasionada por encontrar el punto de encuentro entre la **Economía** y el **Desarrollo de Software**.
 *   🎨 Me encanta diseñar interfaces limpias, funcionales y crear experiencias de usuario (UI/UX) súper amigables.
 *   📈 Actualmente explorando cómo la tecnología puede optimizar las finanzas y crear valor real.
-*   📫 Contáctame: [tu-email@ejemplo.com](mailto:tu-email@ejemplo.com)
+*   📫 Contáctame: [carol.itagvv@gmail.com](mailto:carol.itagvv@gmail.com)
 
 <br />
 
