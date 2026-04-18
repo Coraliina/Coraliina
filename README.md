@@ -8,7 +8,7 @@ Recuerda cambiar "TU_USUARIO_DE_GITHUB" por tu usuario real en los enlaces de es
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzNpMzBqaWRuNHk0OTdveW1rYnBleDRkNTFrMzl3aTU3M202dnRsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JAmXreJHbFwSA/giphy.gif" width="220" alt="GIF Animado" />
   <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=800&size=45&pause=1000&color=FFB3BA;99C1F1;8FF0A4;D3B8FF&center=true&vCenter=true&width=800&height=100&lines=Hola,+soy+Coraliina!+%E2%9C%A8;Econom%C3%ADa+%26+Software+%F0%9F%93%88%F0%9F%92%BB;Dise%C3%B1adora+UI%2FUX+%F0%9F%8E%A8;Finanzas+%2B+C%C3%B3digo+%F0%9F%92%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=800&size=45&pause=1000&color=FFB3BA;FFD1DC;FFC0CB;F4C2C2&center=true&vCenter=true&width=800&height=100&lines=Software+%26+Econom%C3%ADa+%F0%9F%92%BB%F0%9F%93%88" alt="Typing SVG" />
   </a>
 </div>
 
